@@ -1,0 +1,14 @@
+{
+  "name": "nomerok-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "mongodb": "^6.10.0",
+    "express": "^4.21.0",
+    "cors": "^2.8.5"
+  }
+}
